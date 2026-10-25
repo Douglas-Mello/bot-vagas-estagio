@@ -1,0 +1,2 @@
+Cargo: Estágio em Desenvolvimento Software | Empresa: Tech Brasil | Link: https://exemplo.com/vaga1
+Cargo: Estágio em Suporte e Redes | Empresa: Inovação TI | Link: https://exemplo.com/vaga2
