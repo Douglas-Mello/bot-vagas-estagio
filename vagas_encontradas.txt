@@ -1,2 +1,2 @@
-Cargo: Estágio em Desenvolvimento Backend | Empresa: TechCorp | Link: https://exemplo.com/vaga1
-Cargo: Estágio em Engenharia de Software | Empresa: Inovação SA | Link: https://exemplo.com/vaga2
+Cargo: Estágio em Desenvolvimento Python | Empresa: InovaTech Soluções | Link: https://exemplo.com/vaga-python
+Cargo: Estágio em Suporte Técnico | Empresa: Global Systems | Link: https://exemplo.com/vaga-suporte
